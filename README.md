@@ -99,8 +99,6 @@ If you don't have a JRE on your computer you need to download the Executable Gam
 ![image](https://github.com/kuyalester/Game-Bundle/assets/124505485/1ace8d84-c55b-494e-8640-ef42f9f3a99b)
 <br><br>
 ## Game 3 - OS Breaker
-![image](https://github.com/kuyalester/Game-Bundle/assets/124505485/90014b44-ca91-4987-a2e9-0ad063d0d620)
-<br><br>
 ![image](https://github.com/kuyalester/Game-Bundle/assets/124505485/0816d7b7-09de-44dc-8d6b-e5e1eeddbbb4)
 <br><br>
 ![image](https://github.com/kuyalester/Game-Bundle/assets/124505485/db9c94c1-a1c4-4c20-abdb-b2dfc0fe75fa)
