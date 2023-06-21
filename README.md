@@ -1,4 +1,4 @@
-# CS-University
+# Game-Bundle
 CS-University is a collection of 3 game variants.<br><br>
   **1. Are you Smarter than Bill?**
   
