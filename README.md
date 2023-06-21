@@ -1,5 +1,5 @@
 # Game-Bundle
-CS-University is a collection of 3 game variants.<br><br>
+Game-Bundle is a collection of 3 game variants.<br><br>
   **1. Are you Smarter than Bill?**
   
    `A game variant of "Are you Smarter than a 5th Grader".`<br><br>
