@@ -68,6 +68,8 @@ If you don't have a JRE on your computer you need to download the Executable Gam
 ![image](https://github.com/kuyalester/Game-Bundle/assets/124505485/5be61aa4-7edf-460c-9aed-1d0e7b14816f)
 <br><br>
 ## Game 2 - Windows vs. Linux
+![image](https://github.com/kuyalester/Game-Bundle/assets/124505485/ce3b8a31-22bd-4614-abea-64fd5357fc36)
+<br><br>
 ![image](https://github.com/kuyalester/Game-Bundle/assets/124505485/67a6455a-a4d9-4639-b939-e9b79d95c967)
 <br><br>
 ![image](https://github.com/kuyalester/Game-Bundle/assets/124505485/1ac626d3-5564-46b4-83b3-92be960a93d8)
